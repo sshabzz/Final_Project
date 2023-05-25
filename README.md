@@ -56,8 +56,4 @@ Contributions to this project are welcome. If you have any suggestions, improvem
 
 This analysis was conducted by [Shahbaz Mazhar](https://www.linkedin.com/in/shahbaz-mazhar-syed-90853758/)
 With the guidance from ***Ignacio, Lukaz, Sandra*** and my amazing fellow ***classmates***. 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> fdcb92daab724ea636c5841fbaa37a3085d817f2
