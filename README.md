@@ -10,7 +10,7 @@ This project focuses on predicting salary based on various factors using machine
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+- [Credits](#Credits)
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ Based on the evaluation, the best-performing model for salary prediction is the 
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
-# Credits
+## Credits
 
 This analysis was conducted by [Shahbaz Mazhar](https://www.linkedin.com/in/shahbaz-mazhar-syed-90853758/)
 With the guidance from ***Ignacio, Lukaz, Sandra*** and my amazing fellow ***classmates***. 
